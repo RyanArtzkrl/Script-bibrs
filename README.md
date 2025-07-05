@@ -1,1 +1,2 @@
-# Script-bibrs
+# stopedd
+script do RyanArtz priv
